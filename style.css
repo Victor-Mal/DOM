@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+.calc {
+    width: 300px;
+    
+    border: solid black 2px;
+    text-align: center;
+}
+.but {
+    width: 48%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.count {
+    width: 100%;
+    margin: 10px, 0;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 10px;
+}  
+.but_res {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+}  
